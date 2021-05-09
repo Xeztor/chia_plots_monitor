@@ -1,0 +1,4 @@
+2021-05-08 22:21:43,154::root::INFO: Server is up listening on port 60022
+2021-05-08 22:21:46,357::root::INFO: received req from: home ip:192.168.1.100 port: 14355
+2021-05-08 22:21:46,358::root::INFO: sent port: 60000---reciever:home ip:192.168.1.100 p:14355
+2021-05-08 22:21:46,668::root::INFO: connection established. client: ('192.168.1.100', 60000)

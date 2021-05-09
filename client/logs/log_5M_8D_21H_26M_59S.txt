@@ -1,0 +1,11 @@
+2021-05-08 21:26:59,692::root::INFO: request to join sent
+2021-05-08 21:26:59,692::root::INFO: received port: 60000
+2021-05-08 21:26:59,693::root::INFO: waiting for connection...
+2021-05-08 21:27:00,066::root::INFO: connection established
+2021-05-08 21:27:00,066::root::INFO: sent: 0
+2021-05-08 21:27:01,068::root::INFO: sent: 0
+2021-05-08 21:27:02,070::root::INFO: sent: 0
+2021-05-08 21:27:03,071::root::INFO: sent: 0
+2021-05-08 21:27:04,072::root::INFO: sent: 0
+2021-05-08 21:27:05,073::root::INFO: sent: 0
+2021-05-08 21:27:06,074::root::INFO: sent: 0
