@@ -1,1 +1,1 @@
-# chia_plots_monitor
+<h2 style="align: center">Chia Plot Monitor</h2> 
