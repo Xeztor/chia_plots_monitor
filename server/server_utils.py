@@ -1,16 +1,11 @@
-import logging
 import pickle
 import queue
 import socket
-import sys
 import tkinter as tk
-from copy import deepcopy
 from threading import Thread
 
 COLORS = {'fg': 'white', 'bg': '#181818'}
 max_wait_iters_for_response = 20
-
-logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 BUFFER_SIZE = 64
 
@@ -144,6 +139,7 @@ class RemoteHostListener:
 
     def change_port(self, port):
         self.port = port
+
 
     def change_ip(self, ip):
         self.ip = ip
